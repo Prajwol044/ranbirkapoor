@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TigerSoccerClub
+namespace Barcelona
 {
     class Program
     {
@@ -45,7 +45,7 @@ namespace TigerSoccerClub
             }
             else
             {
-                if (Players == 1)
+                if (Players == 2)
                 {
                     Console.Write("Enter name: ");
                     Name = Console.ReadLine();
